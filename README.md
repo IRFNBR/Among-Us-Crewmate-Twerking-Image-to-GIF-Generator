@@ -8,8 +8,9 @@ Requirements:
 
 • ImageMagick (MUST be downloaded via the web archive: https://archive.org/download/image-magick-6.9.12-19-q-16-x-64-static/ImageMagick-6.9.12-19-Q16-x64-static.exe)
 
-Basic usage:
-Click and open the jar, select whatever image file you have, and a file called “dumpy.gif” will be made in the same folder as the jar.
+`Basic usage:`
+
+Click and open the `.jar` file, select whatever image file you have, and a file called “dumpy.gif” will be made in the same folder as the jar.
 
 CLI usage (for more options):
 
