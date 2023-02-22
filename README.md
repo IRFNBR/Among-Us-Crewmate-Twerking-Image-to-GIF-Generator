@@ -4,7 +4,7 @@ Basically this can turn any image into a GIF made up of twerking Among Us Crewma
 
 Requirements:
 
-• Java Runtime Environment 16 (https://www.oracle.com/java/technologies/downloads/#java16)
+• Java Runtime Environment 16: https://www.oracle.com/java/technologies/downloads/#java16
 
 • ImageMagick (MUST be downloaded via the web archive: https://archive.org/download/image-magick-6.9.12-19-q-16-x-64-static/ImageMagick-6.9.12-19-Q16-x64-static.exe)
 
