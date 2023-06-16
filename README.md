@@ -30,6 +30,6 @@ ___`java -jar Among-Us-Dumpy-Gif-Maker-4.2.1-all.jar <flags>`___ All flags are o
   
 If you have ANY issues, DM me on either Discord, or Twitter!
 
-My Twitter is: @IRFNBR2
+My Twitter is @JohnThiccamus
 
 My Discord is: Infinite Reality#0001
