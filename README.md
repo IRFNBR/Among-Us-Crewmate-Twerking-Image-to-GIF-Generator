@@ -32,4 +32,4 @@ If you have ANY issues, DM me on either Discord, or Twitter!
 
 My Twitter is @JohnThiccamus
 
-My Discord is: Infinite Reality#0001
+My Discord is: johnthiccamus#0
